@@ -1,0 +1,24 @@
+{
+  "name": "javascript-play-time",
+  "version": "1.0.0",
+  "description": "Some javascript syntax 😀",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bright-nwokoro/javascript-play-time.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bright-nwokoro/javascript-play-time/issues"
+  },
+  "homepage": "https://github.com/bright-nwokoro/javascript-play-time#readme",
+  "devDependencies": {
+    "eslint": "^8.21.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
